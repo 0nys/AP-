@@ -126,7 +126,7 @@
     box.boxDiv.appendChild(wrap);
 	}
 	
-  //enlever ce dégradé immonde
+  //pour enlever ce dégradé immonde
 	document.querySelector('#masthead table').removeAttribute('background');
   //petite signature
 	document.querySelector('#masthead td[valign="middle"][width="33%"] h6').appendChild(document.createTextNode('Mise en forme par Malo Revel'));
