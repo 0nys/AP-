@@ -160,7 +160,7 @@
 		height : 80%;\
 		margin : 40px auto 40px auto;\
 		padding : 20px;\
-		background-color : rgb(200, 100, 0);\
+		background-color : rgb(102, 153, 255);\
     border-radius : 20px;\
 	}\
 	.allHoursLayout, .oneHourLayoutTop, .oneHourLayoutBottom{\
