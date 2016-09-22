@@ -2,7 +2,7 @@
 // @name        AP++
 // @namespace   https://github.com/Polysynchron/AP-
 // @include     https://hbgtweb.ac-poitiers.fr/gael/*
-// @downloadURL https://github.com/Polysynchron/AP-/raw/master/AP%2B%2B.user.js
+// @updateURL https://github.com/Polysynchron/AP-/raw/master/AP%2B%2B.user.js
 // @version     1
 // @grant       none
 // ==/UserScript==
@@ -160,7 +160,7 @@
 		height : 80%;\
 		margin : 40px auto 40px auto;\
 		padding : 20px;\
-		background-color : rgb(102, 153, 255);\
+		background-color : rgb(40, 40, 40);\
     border-radius : 20px;\
 	}\
 	.allHoursLayout, .oneHourLayoutTop, .oneHourLayoutBottom{\
