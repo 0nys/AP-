@@ -134,7 +134,7 @@
 	var head = document.getElementsByTagName('head')[0];
 	var style = document.createElement('style');
 	
-  //lourde feuille de style css
+  //grosse feuille de style css
 	style.innerHTML = '\
 	.wrap{\
 		display : inline-block;\
@@ -249,7 +249,7 @@
 	
 	console.log('AP++ init ok');
   
-  //décommenter pour choisir la couleur des box en haut à gauche de la page (c'est cool)
+  //décommenter pour choisir la couleur des box en haut à gauche de la page (tu vas voir c'est cool)
   /*
   var color = document.createElement('input');
   color.type = 'color';
