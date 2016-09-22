@@ -134,7 +134,7 @@
 	var head = document.getElementsByTagName('head')[0];
 	var style = document.createElement('style');
 	
-  //grosse feuille de style css
+  //grosse feuille de style des familles
 	style.innerHTML = '\
 	.wrap{\
 		display : inline-block;\
