@@ -153,15 +153,15 @@
 	.ap .cadre{\
 		background : rgb(230, 230, 230);\
 		border : 0;\
-    border-radius : 10px;\
+		border-radius : 10px;\
 	}\
 	.box{\
 		width : 80%;\
 		height : 80%;\
 		margin : 40px auto 40px auto;\
 		padding : 20px;\
-		background-color : rgb(40, 40, 40);\
-    border-radius : 20px;\
+		background-color : rgb(102, 153, 255);\
+		border-radius : 20px;\
 	}\
 	.allHoursLayout, .oneHourLayoutTop, .oneHourLayoutBottom{\
 		display : inline-block;\
